@@ -16,5 +16,7 @@ locally only.
 5. Place the two raw data files in data/raw. In definitions.py, define the two following variables according to the raw
 data file names
 
-CLASSROOM_SESSIONS_FILENAME \\
+```
+CLASSROOM_SESSIONS_FILENAME
 FORM_ANSWERS_FILENAME
+```
